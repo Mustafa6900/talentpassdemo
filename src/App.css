@@ -1,0 +1,175 @@
+.header{
+    background-color: white;
+    color: #fff;
+    padding: 10px;
+    text-align: start;
+}
+.header img{
+    width: 15%;
+    height: 15%;
+}
+.header-down{
+    background-color: rgb(209, 113, 23);
+    background: linear-gradient(90deg, rgb(209, 113, 23) 0%, rgb(233, 129, 32) 35%, rgba(209, 113, 23) 100%);
+    color: #fff;
+    padding: 10px;
+    text-align: start;
+}
+.page{
+    background-color: white;
+    color: #fff;
+    padding: 10px;
+    text-align: start;
+    height: 1000px;
+    
+}
+.page-left{
+    background-color: rgb(199, 199, 199);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: start;
+    float: left;
+    height: max-content;
+    width: 1000px;
+    margin-left: 75px;
+}
+.page-left-header{
+    background-color: rgb(209, 113, 23);
+    background: linear-gradient(90deg, rgb(209, 113, 23) 0%, rgb(233, 129, 32) 35%, rgba(209, 113, 23) 100%);
+    color: #fff;
+    padding: 7px;
+    text-align: start;
+    height: auto;
+    width: fit-content;
+    border-radius: 7px;
+    margin-left: 85px;
+}
+.page-left-content{
+    color: #fff;
+    padding: 10px;
+    text-align: start;
+    height: auto;
+    width: auto;
+}
+
+.page-left-content li{
+    background-color: rgb(209, 113, 23);
+    list-style-type: none;
+    padding: 15px;
+    text-align: start;
+    height: max-content;
+    width: 800px;
+    cursor: pointer;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    margin-left: 75px;
+
+}
+.page-left-content li:hover{
+    background-color: rgb(238, 157, 81);
+}
+.page-left-content li img{
+    width: 15%;
+    height: 15%;
+    margin-bottom: 2px;
+}
+
+
+.page-right{
+    background-color: rgb(199, 199, 199);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: start;
+    float: right;
+    height: max-content;
+    width: 600px;
+    margin-right: 75px;
+}
+
+.page-right-header{
+    background-color: rgb(209, 113, 23);
+    background: linear-gradient(90deg, rgb(209, 113, 23) 0%, rgb(233, 129, 32) 35%, rgba(209, 113, 23) 100%);
+    color: #fff;
+    padding: 7px;
+    text-align: start;
+    height: auto;
+    width: fit-content;
+    border-radius: 7px;
+    margin-left: 115px;
+    
+}
+.page-right-content{
+    color: #fff;
+    padding: 10px;
+    text-align: start;
+    height: auto;
+    width: auto;
+    margin-bottom: 30px;
+    
+}
+
+.page-right-content li{
+    background-color: rgb(209, 113, 23);
+    flex-direction: column;
+    list-style-type: none;
+    padding: 15px;
+    text-align: start;
+    height: max-content;
+    width: 300px;
+    cursor: pointer;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    margin-left: 105px;
+}
+
+.page-right-radar{
+    width: 350px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.page-right-leaderboard{
+    width: 350px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    background-color: rgb(175, 175, 175);
+    border-radius: 7px;
+}
+
+.page-right-leaderboard-header{
+    background-color: rgb(204, 142, 84);
+    background: linear-gradient(90deg, rgb(209, 113, 23) 0%, rgb(233, 129, 32) 35%, rgba(209, 113, 23) 100%);
+    color: #000000;
+    font-weight: 800;
+    padding: 7px;
+    text-align: start;
+    height: auto;
+    width: fit-content;
+    border-radius: 7px;
+    margin-left: 20px;
+}
+
+.page-right-leaderboard-content{
+    color: #000000;
+    padding: 10px;
+    text-align: start;
+    height: auto;
+    width: auto;
+    margin-bottom: 30px;
+}
+
+.page-right-leaderboard-content li{
+    background-color: rgb(209, 113, 23);
+    flex-direction: column;
+    font-weight: 600;
+
+    list-style-type: none;
+    padding: 15px;
+    text-align: start;
+    height: max-content;
+    width: 200px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+

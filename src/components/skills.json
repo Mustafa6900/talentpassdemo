@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Leadership",
+        "image": "logo.png",
+        "description": "The ability to influence a group toward the achievement of a vision or set of goals.",
+        "radarpoint":  1
+        
+    },
+    {
+        "title": "Organization",
+        "image": "logo.png",
+        "description": "The ability to plan, prioritize, and execute tasks in a timely and efficient manner.",
+        "radarpoint":  2
+        
+    },    
+    {
+        "title": "Communication",
+        "image": "logo.png",
+        "description": "The ability to effectively exchange information with others.",
+        "radarpoint":  3
+     
+    },
+    {
+        "title": "Teamwork",
+        "image": "logo.png",
+        "description": "The ability to work collaboratively with a group of people in order to achieve a common goal.",
+        "radarpoint":  4
+    },
+    {
+        "title": "Problem Solving",
+        "image": "logo.png",
+        "description": "The ability to identify and solve problems in a timely manner.",
+        "radarpoint":  5
+    },
+    {
+        "title": "Creativity",
+        "image": "logo.png",
+        "description": "The ability to think of new and unique ideas.",
+        "radarpoint":  2 
+    },
+    {
+        "title": "Time Management",
+        "image": "logo.png",
+        "description": "The ability to use one's time effectively and efficiently.",
+        "radarpoint":  3
+    },
+    {
+        "title": "Adaptability",
+        "image": "logo.png",
+        "description": "The ability to adapt to different situations and environments.",
+        "radarpoint":  4
+        
+    },
+    {
+        "title": "Flexibility",
+        "image": "logo.png",
+        "description": "The ability to adapt to different situations and environments.",
+        "radarpoint":  1
+    },
+    {
+        "title": "Self Motivation",
+        "image": "logo.png",
+        "description": "The ability to be internally inspired to perform a task.",
+        "radarpoint":  2
+    }
+]
