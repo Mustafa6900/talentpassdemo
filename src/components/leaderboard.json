@@ -2,21 +2,25 @@
     {
         "id": 1,
         "name": "Musti ",
-        "point": 400
+        "pp":"l1.png",
+        "job":"Software Developer"
     },
     {
         "id": 2,
         "name": "Mete",
-        "point": 300
+        "pp":"l2.png",
+        "job":"Cloud Developer"
     },
     {
         "id": 3,
         "name": "Hamdi",
-        "point": 200
+        "pp":"l3.png",
+        "job":"Data Developer"
     },
     {
         "id": 4,
         "name": "Hasan",
-        "point": 100
+        "pp":"l4.png",
+        "job":"Pilot"
     }
 ]
